@@ -1,5 +1,5 @@
 # sknubits
-Sknubits Primary OS Repro
+Sknubits Primary Repo
 
 Simple Knowledge Units and Bits
 
